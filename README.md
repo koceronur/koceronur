@@ -10,7 +10,7 @@ ML researcher and software engineer, completing an ML-focused MSc in Computer Sc
 
 I'm interested in work that takes ML research ideas all the way to working systems.
 
-**Featured project:** [NEE partitioning in tidal marshes](https://github.com/[username]/nee-partition), extending a published neural network method to a new ecosystem, with bootstrap-based model comparison.
+**Featured project:** [NEE partitioning in tidal marshes](https://github.com/onur-kocer/nee-partition), extending a published neural network method to a new ecosystem, with bootstrap-based model comparison.
 
 **Tools:** Python · PyTorch · XGBoost · scikit-learn · C · Linux · Git
 
